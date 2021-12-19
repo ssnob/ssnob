@@ -1,3 +1,1 @@
-# Learning
-* C++
-* C#
+Exploring
